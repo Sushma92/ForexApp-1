@@ -4,7 +4,7 @@ package com.sushma.java.forex.web;
  * Hello world!
  *
  */
-public class App 
+public class AppWebMain 
 {
     public static void main( String[] args )
     {
